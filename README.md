@@ -1,4 +1,4 @@
-# Sistema Operativo "MyOS" - Progetto Universitario
+# Sistema Operativo "grafite OS"
 
 Questo repository contiene il codice sorgente di un sistema operativo minimale sviluppato come progetto accademico. Il sistema è in grado di avviarsi tramite GRUB, gestire la memoria, processare input da tastiera e mouse, e visualizzare una semplice interfaccia grafica con finestre.
 
